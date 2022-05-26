@@ -8,12 +8,12 @@
   },
   "servers": [
     {
-      "id": "AsteriaMc-1.7.10",
-      "name": "AsteriaMc (Minecraft 1.7.10)",
-      "description": "AsteriaMc Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
+      "id": "AsteriaMc",
+      "name": "AsteriaMc",
+      "description": "AsteriaMc Lobby",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "141.94.61.99:25565",
       "minecraftVersion": "1.7.10",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
